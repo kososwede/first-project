@@ -55,7 +55,32 @@ h3 {
     #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
 }
 
+/*-------------------------------------history*/
 
+.history {
+    color: #f8f9fa;
+    background-color: #56b3fc;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.history-sub-head1 {
+   font-family: 'DM Serif Display', serif;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 35px;
+    color: #56b3fc ;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+}
+#container {
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: inline-block;
+    text-align: center;
+    background-color: #f8f9fa;
+}
 
 /*-------------------------------------places-------------------------*/
 
@@ -78,17 +103,6 @@ h3 {
 
 
 
-
-
-#container {
-    padding: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
-    display: inline-block;
-    text-align: center;
-    background-color: #f8f9fa;
-}
-
 .img.fluid {
     width: 100%;
     height: auto;
@@ -108,12 +122,27 @@ h3 {
 p {
     font-weight: bold;
     padding-top: 20px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 hr {
     width: 50%;
+}
+
+/*-------------------------------------images videos-------------------------*/
+.imagesvideos {
+    color: #f8f9fa;
+    background-color: #56b3fc;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.col-6 {
+    padding: 5px;
+}
+iframe {
+    padding: 5px;
 }
 
 /*-----------------------------------------footer--*/
