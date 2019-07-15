@@ -10,9 +10,12 @@ html {
 
 body {
     font-family: 'Source Sans Pro';
+   
 
 }
-
+ navbar {
+     margin-right: 10px;
+ }
 
 
 .image-size {
@@ -57,8 +60,8 @@ h3 {
 /*-------------------------------------places-------------------------*/
 
 .to-do {
-    color: #fff;
-    background-color: #7FF4D7;
+    color: #f8f9fa;
+    background-color: #56b3fc;
     text-align: center;
     margin-top: 50px;
 
@@ -68,6 +71,9 @@ h3 {
     font-family: 'DM Serif Display', serif;
     padding-left: 10px;
     padding-top: 20px;
+    font-size: 35px;
+    color: #56b3fc ;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 
@@ -80,18 +86,30 @@ h3 {
     margin-right: 0px;
     display: inline-block;
     text-align: center;
-    background-color: #EEFEFA;
+    background-color: #f8f9fa;
 }
 
 .img.fluid {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
-.col-6 {
-    padding: 10px;
+
+
+.col-12 {
+    padding-top: 35px;
+    padding-right: 15px;
     text-align: center;
 
+    
+}
+
+
+p {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 hr {
@@ -172,5 +190,32 @@ hr {
     text-align: center;
 }
 
+btn {
+    margin-top: 0;
+}
+
+/*-----------------------------history---*/
+
+.col-lg-6 {
+padding: 0;
+margin: 0;
+}
+
+.content-section {
+ padding-top: 0px;
+ padding-right: 0;
+ background-color: royalblue;
+ 
+
+}
+
+.history-color {
+ color: #fff;
+ text-decoration: underline yellow;
+ }
+ 
+  .col-lg-4 {
+  width: 100%;
+ }
 
 
