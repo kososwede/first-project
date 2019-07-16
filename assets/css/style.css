@@ -10,9 +10,9 @@ html {
 
 body {
     font-family: 'Source Sans Pro';
-   
-
-}
+   }
+ 
+ /*-------------------------------------navbar--------------------*/
  navbar {
      margin-right: 10px;
  }
@@ -22,6 +22,7 @@ body {
     height: 40px;
 }
 
+/*------------------------------------landing page------------*/
 
 .masthead {
     min-height: 30rem;
@@ -54,6 +55,24 @@ h3 {
     text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px,
     #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
 }
+#container {
+    padding: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: inline-block;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+p {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+hr {
+    width: 50%;
+}
 
 /*-------------------------------------history*/
 
@@ -71,16 +90,14 @@ h3 {
     font-size: 35px;
     color: #56b3fc ;
      text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    
 }
-#container {
-    padding: 10px;
-    margin-left: 0px;
-    margin-right: 0px;
-    display: inline-block;
-    text-align: center;
-    background-color: #f8f9fa;
-}
+
+
+
+
+ 
+
+
 
 /*-------------------------------------places-------------------------*/
 
@@ -110,8 +127,8 @@ h3 {
 
 
 
-.col-12 {
-    padding-top: 35px;
+.col-md-6 {
+    padding-top: 20px;
     padding-right: 15px;
     text-align: center;
 
@@ -119,16 +136,7 @@ h3 {
 }
 
 
-p {
-    font-weight: bold;
-    padding-top: 20px;
-    padding-left: 25px;
-    padding-right: 25px;
-}
 
-hr {
-    width: 50%;
-}
 
 /*-------------------------------------images videos-------------------------*/
 .imagesvideos {
@@ -138,11 +146,31 @@ hr {
     margin-top: 50px;
     
 }
-.col-6 {
-    padding: 5px;
+.col-md-6 .sm-12 {
+    padding-right:20px;
+    margin: 5px;
 }
-iframe {
-    padding: 5px;
+
+.embed-responsive-item {
+    padding: 20px 15px 0;
+}
+
+
+
+/*----------------------------------------map-------------------------------*/
+
+.map-container-4{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-4 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
 }
 
 /*-----------------------------------------footer--*/
@@ -223,28 +251,7 @@ btn {
     margin-top: 0;
 }
 
-/*-----------------------------history---*/
 
-.col-lg-6 {
-padding: 0;
-margin: 0;
-}
 
-.content-section {
- padding-top: 0px;
- padding-right: 0;
- background-color: royalblue;
- 
-
-}
-
-.history-color {
- color: #fff;
- text-decoration: underline yellow;
- }
- 
-  .col-lg-4 {
-  width: 100%;
- }
 
 
