@@ -146,9 +146,14 @@ hr {
     background-color: #56b3fc;
     text-align: center;
     margin-top: 50px;
-    
+    }
+
+.youtube-player {
+    -webkit-overflow-scrolling: touch;
 }
-.col-sm-12 .col-md-12  {
+        
+    
+.col-sm-12 .col-md-6 {
     overflow-y: scroll; 
 
     margin: 5px;
