@@ -148,11 +148,11 @@ hr {
     margin-top: 50px;
     
 }
-.col-sm-12 .col-md-6  {
+.col-sm-12 .col-md-12  {
     -webkit-overflow-scrolling:touch; overflow:auto;
     margin: 5px;
     padding: 20px 15px 0;
-    overflow-y: visible;
+   
 }
 
 .col-sm-6 {
