@@ -149,7 +149,8 @@ hr {
     
 }
 .col-sm-12 .col-md-12  {
-    -webkit-overflow-scrolling:touch; overflow:auto;
+    overflow-y: scroll; 
+
     margin: 5px;
     padding: 20px 15px 0;
    
