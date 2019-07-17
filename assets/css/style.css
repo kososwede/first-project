@@ -152,6 +152,7 @@ hr {
     -webkit-overflow-scrolling:touch; overflow:auto;
     margin: 5px;
     padding: 20px 15px 0;
+    overflow-y: visible;
 }
 
 .col-sm-6 {
