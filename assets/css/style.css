@@ -32,9 +32,9 @@ body {
     height: 100%;
     padding-top: 0rem;
     padding-bottom: 0rem;
-    background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../images/viewofstrangnas.jpg");
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../images/viewofstrangnas.jpg");
-    background-image: url(../images/viewofstrangnas.jpg);
+    background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("../images/viewofstrangnas1.jpg");
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../images/viewofstrangnas1.jpg");
+    background-image: url(../images/viewofstrangnas1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
