@@ -55,6 +55,7 @@ h3 {
     text-shadow: #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px,
     #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
 }
+
 #container {
     padding: 10px;
     margin-left: 0px;
@@ -62,6 +63,7 @@ h3 {
     display: inline-block;
     text-align: center;
     background-color: #f8f9fa;
+    width: 100%;
 }
 p {
     font-weight: bold;
@@ -146,7 +148,7 @@ hr {
     margin-top: 50px;
     
 }
-.col-md-6 .sm-12 {
+.col-sm-12 .col-md-6  {
     padding-right:20px;
     margin: 5px;
 }
@@ -250,7 +252,6 @@ position:absolute;
 btn {
     margin-top: 0;
 }
-
 
 
 
