@@ -150,22 +150,7 @@ hr {
     margin-top: 50px;
     }
 
-.iframe-holder {
-  position: static; 
-  right: 0; 
-  bottom: 0; 
-  left: 0;
-  top: 0;
-  -webkit-overflow-scrolling: touch;
-  overflow-y: scroll;
-}
-
-.iframe-holder iframe {
-  height: 100%;
-  width: 100%;
-}
         
-    
 .col-sm-12 .col-md-6 {
     margin: 5px;
     padding: 20px 15px 0;
