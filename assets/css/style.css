@@ -150,7 +150,12 @@ hr {
     margin-top: 50px;
     }
 
-        
+        iframe {
+            -webkit-overflow-scrolling: touch;
+            overflow-y: scroll;
+            
+            
+        }
 .col-sm-12 .col-md-6 {
     margin: 5px;
     padding: 20px 15px 0;
