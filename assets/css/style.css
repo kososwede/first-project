@@ -57,7 +57,7 @@ h3 {
     #000 0px 0px 1px, #000 0px 0px 1px, #000 0px 0px 1px;
 }
 
-#container -webkit-overflow-scroll:{
+#container {
     padding: 10px;
     margin-left: 0px;
     margin-right: 0px;
@@ -150,8 +150,19 @@ hr {
     margin-top: 50px;
     }
 
-.embed-responsive-16by9{
-    -webkit-overflow-scrolling: touch;
+.iframe-holder {
+  position: static; 
+  right: 0; 
+  bottom: 0; 
+  left: 0;
+  top: 0;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: scroll;
+}
+
+.iframe-holder iframe {
+  height: 100%;
+  width: 100%;
 }
         
     
