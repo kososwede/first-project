@@ -143,6 +143,12 @@ hr {
 
 
 /*-------------------------------------images videos-------------------------*/
+.video-player {
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+    
+}
+
 .imagesvideos {
     color: #f8f9fa;
     background-color: #56b3fc;
