@@ -65,9 +65,8 @@ h3 {
     margin-right: 0px;
     display: inline-block;
     text-align: center;
-    background-color: #f8f9fa;
     width: 100%;
-    
+
 }
 p {
     font-weight: bold;
@@ -169,7 +168,6 @@ img .btn {
 .container {
   position: relative;
   width: 100%;
-   background-color: #f8f9fa;
    text-align: center;
 }
 div .container {
@@ -182,7 +180,7 @@ div .container {
 
 /* Make the image responsive */
 .container img {
-  width: 90%;
+  width: 100%;
   height: auto;
   background-color: #f8f9fa;
   
