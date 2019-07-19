@@ -38,9 +38,32 @@ The Navbar will be fixed to the top on all devices and screen sizes to keep it u
 Full screen landing page features an image of Strängnäs in the summer and will want users want to see more. It will be kept full screen on all devices, all of the information will be available on desktop and mobile devices as I dont want anyone to miss out on the features my website has to offer.
 
 #### SURFACE
-I wanted to keep the website simple and clean
- 
+I wanted to keep the website simple and clean with not to much going on so that users eyes are focused on the content and not elsewhere. I have chosen a light grey background on all pages, and the navbar and footer are also in the same colour so that it blends in seemlesly. The links in the Navbar are coloured blue and there is a swedish flag in the left corner as Strängnäs is in Sweden.
+The headers for each page has the same design with a blue background (same blue as the navbar text) and the text is a light grey (same as the background of the pages).
 
+## FEATURES
 
+In all of my pages there is a link to social media, and a chance to sign up with an email to receive offers.
+All images in the images & video page are clickable so they can be viewed at a larger size and also saved. It also has a video link that directs the user to youtube to view the video of Strängnäs.
+Things to do page has links to the website of the mentioned activities so users can easily find the website.
+All links that are clicked are opened in another browser window so users can easily find their way back to my website.
+
+#### FUTURE FEATURES
+* For users to add their own images and videos and also comments and recommendations.
+* More languages options so anyone who visits the website no matter where they come from they will be able to understand and use it.
+
+## TECHNOLOGIES USED
+* HTML5 - as its the most widely used declarative language.
+https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5
+* CSS3 - used with HTML5 to produce colour, style and layout to my page.
+https://developer.mozilla.org/en/docs/Web/CSS/CSS3
+* BOOTSTRAP (v4.3.1) - was used to create the grid layout of my website and also the navbar and footer. https://getbootstrap.com/
+* GIT - used to track changes I have made in my code. https://git-scm.com/
+* GITHUB - works hand in hand with GIT, after files are added and commited to GIT they can be pushed to GITHUB into my repository. https://github.com/
+* PIXLR X - used to change image size so it does not effect the quality. https://pixlr.com/x/
+* FONT AWESOME/IONICONS -  used to create logos in footer. https://fontawesome.com/    
+* https://ionicons.com/
+* GOOGLE PHOTOS - used to download my images to be used. https://www.google.com/photos/about/
+* YOUTUBE - used for the video of Strängnäs. https://www.youtube.com/ 
 
  
