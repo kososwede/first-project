@@ -78,6 +78,34 @@ Link to my website: https://kososwede.github.io/first-project/index.html
 
 ## CREDITS
 #### CONTENTS
+HISTORY
+* Text was copied from wikipedia https://en.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s
+
+THINGS TO DO
 * ARSENALEN text was copied from wikipedia https://sv.wikipedia.org/wiki/F%C3%B6rsvarsfordonsmuseet_Arsenalen
 * STRÄNGNÄS DOMKYRKA text was copied from wikipedia https://en.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s_Cathedral
 * STRÄNGNÄS VÄDERKVARN text was copied from wikipedia https://sv.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s_v%C3%A4derkvarn
+
+#### MEDIA
+
+##### LANDING PAGE
+* Image used is my own.
+##### HISTORY 
+* Images obtained from the swedish nstional heritage https://www.flickr.com/photos/swedish_heritage_board/4699465591 - https://www.flickr.com/photos/swedish_heritage_board/4699457529/in/photostream/
+##### THINGS TO DO
+* ARSENALEN- Image used is my own.
+* STRÄNGNÄS DOMKYRKA- Image obtained from https://farm5.staticflickr.com/4022/5156929679_059ef91ddd_o.jpg
+* STRÄNGNÄS VÄDERKVARN- Image used is my own.
+##### IMAGES & VIDEOS 
+* Images used are my own.
+* Video obtained from Youtube https://youtu.be/J5FrnGHEJdw posted by Juha Aurendahll.
+
+## ACKNOWLEDGEMENTS
+I received inspiration for this project from
+* w3schools.com https://www.w3schools.com/html/default.asp
+* Bootstrap.com https://getbootstrap.com/docs/4.3/getting-started/introduction/
+* CSS-tricks.com https://css-tricks.com/
+* stackoverflow.com https://stackoverflow.com/
+
+
+ 
