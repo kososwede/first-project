@@ -2,12 +2,6 @@
 
 This project was built for my student assignment, It is a website that allows visitors to Strängnäs to see how beautiful the town is and also what it has to offer.
 
-## DEPLOYMENT
-
-I deployed my website and files using GIT and GITHUB hosting. GIT is used to push files up to GITHUB where i can store the code for you to see. If you want to see the source code you click on the file name index.html or style.css.
-
-Link to my website: https://kososwede.github.io/first-project/index.html
-
 ## UX
 
 #### USER STORIES
@@ -64,6 +58,26 @@ https://developer.mozilla.org/en/docs/Web/CSS/CSS3
 * FONT AWESOME/IONICONS -  used to create logos in footer. https://fontawesome.com/    
 * https://ionicons.com/
 * GOOGLE PHOTOS - used to download my images to be used. https://www.google.com/photos/about/
-* YOUTUBE - used for the video of Strängnäs. https://www.youtube.com/ 
+* YOUTUBE - used for the video of Strängnäs. https://www.youtube.com/
 
- 
+## TESTING
+My website was tested in Chrome, Firefox, Safari, Opera and Microsoft Edge. It was also tested on android and ios devices and all worked as it should. A link from GITHUB was sent to my family and friends in England to make sure that it wrked on all of their devices. All links worked and opened in a different browser window. The email sign up was also tested to make sure a valid email address has to entered in order for the sign up button to work.
+
+#### BUGS AND FIXES
+
+* Images loading to slow - SOLUTION- changed all image sizeswith built in resizer tool in AWS Cloud9 so that images would not take long to load.
+* Images not clear after resizing with AWS Cloud9 - SOLUTION - resized again using Pixlr x instead, now images are clear.
+* Sign up button when clicked just refreshes the page - SOLUTION - added "required" to the input element to fix the problem.
+* Scrolling the images and videos page and map page does not work on ios - SOLUTION - after many hours trying to fix the problem I found out that iframes are not well suited to ios, so I decided to remove the iframes for the videos and make a screen shot of the video and create a button on top of the image that when clicked will lead you to the video on youtube in a different window. For the map page i resized the map so scrolling it was not needed.
+
+## DEPLOYMENT
+
+I deployed my website and files using GIT and GITHUB hosting. GIT is used to push files up to GITHUB where i can store the code for you to see. If you want to see the source code you click on the file name ie. index.html or style.css.
+
+Link to my website: https://kososwede.github.io/first-project/index.html
+
+## CREDITS
+#### CONTENTS
+* ARSENALEN text was copied from wikipedia https://sv.wikipedia.org/wiki/F%C3%B6rsvarsfordonsmuseet_Arsenalen
+* STRÄNGNÄS DOMKYRKA text was copied from wikipedia https://en.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s_Cathedral
+* STRÄNGNÄS VÄDERKVARN text was copied from wikipedia https://sv.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s_v%C3%A4derkvarn
