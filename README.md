@@ -2,6 +2,13 @@
 
 This project was built for my student assignment, It is a website that allows visitors to Strängnäs to see how beautiful the town is and also what it has to offer.
 
+## DEPLOYMENT
+
+I deployed my website and files using GIT and GITHUB hosting. GIT is used to push files up to GITHUB where i can store the code for you to see. If you want to see the source code you click on the file name ie. index.html or style.css.
+
+Link to my website: https://kososwede.github.io/first-project/index.html
+
+
 ## UX
 
 #### USER STORIES
@@ -69,12 +76,6 @@ My website was tested in Chrome, Firefox, Safari, Opera and Microsoft Edge. It w
 * Images not clear after resizing with AWS Cloud9 - SOLUTION - resized again using Pixlr x instead, now images are clear.
 * Sign up button when clicked just refreshes the page - SOLUTION - added "required" to the input element to fix the problem.
 * Scrolling the images and videos page and map page does not work on ios - SOLUTION - after many hours trying to fix the problem I found out that iframes are not well suited to ios, so I decided to remove the iframes for the videos and make a screen shot of the video and create a button on top of the image that when clicked will lead you to the video on youtube in a different window. For the map page i resized the map so scrolling it was not needed.
-
-## DEPLOYMENT
-
-I deployed my website and files using GIT and GITHUB hosting. GIT is used to push files up to GITHUB where i can store the code for you to see. If you want to see the source code you click on the file name ie. index.html or style.css.
-
-Link to my website: https://kososwede.github.io/first-project/index.html
 
 ## CREDITS
 #### CONTENTS
